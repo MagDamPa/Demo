@@ -3,5 +3,5 @@ int main(){
 //prints something dummy
 printf("Hello, dummy!");
 return 0;
+printf("");
 }
-
